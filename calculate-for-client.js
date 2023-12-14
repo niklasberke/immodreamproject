@@ -90,5 +90,3 @@
         }
     });
 
-// Openai secret : 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
-
